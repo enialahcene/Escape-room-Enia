@@ -18,8 +18,8 @@ Aquí tienes el mapa de Escape City, donde explorarás ubicaciones como el parqu
 
 - **Park** 🏞️: El lugar donde empiezas tu aventura.
 - **Square** 🏛️: Un centro donde se oculta un mapa importante.
-- **Port** 🏗️: El destino final donde podrás tomar el ferry.
 - **Beach** 🏖️: Explora esta área para recolectar más mapas.
+- **Port** 🏗️: El destino final donde podrás tomar el ferry.
 - **Ferry** 🛳️: ¡La salida de la isla!
 
 **Calles** que conectan las áreas:
