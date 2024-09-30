@@ -14,7 +14,7 @@
 
 Aquí tienes el mapa de Escape City, donde explorarás ubicaciones como el parque 🏞️, la plaza 🏛️, la playa 🏖️ y el puerto 🏗️:
 
-![Mapa del juego](/Users/carmona/Desktop/mapa.png)
+![Mapa del juego](mapa.png)
 
 - **Park** 🏞️: El lugar donde empiezas tu aventura.
 - **Square** 🏛️: Un centro donde se oculta un mapa importante.
