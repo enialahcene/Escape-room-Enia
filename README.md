@@ -4,7 +4,7 @@
 
 ## 📝 Descripción del juego
 
-> **Has amanecido en una isla desconocida...** 🌅 Abres los ojos y te encuentras en un parque. A tu alrededor ves muchos árboles, un perro. Tu única salida es llegar al puerto 🛳️ y tomar el ferry para escapar.
+> **Has amanecido en una isla desconocida...** 🌅 Abres los ojos y te encuentras en un parque. A tu alrededor ves muchos árboles y un perro. Tu única salida es llegar al puerto 🛳️ y tomar el ferry para escapar.
 >
 > ...Pero hay un problema... **¡no sabes dónde está el puerto!** 🗺️ Para encontrarlo, tendrás que explorar las distintas ubicaciones de la isla, buscar los mapas escondidos y recolectar todos los que puedas para poder escapar.
 >
